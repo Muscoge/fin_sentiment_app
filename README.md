@@ -1,6 +1,6 @@
 # Financial Sentiment Prediction App
-**By Egor Sergeev, HSE MDS Student Spring23**
-This application is designed to predict financial sentiment using fine-tuned machine learning models. Below are the details of the project's implementation and usage.
+#### By Egor Sergeev, HSE MDS Student Spring23
+This application is designed to predict financial message sentiment using fine-tuned machine learning models. Below are the details of the project's implementation and usage.
 
 ## Methodology
 
